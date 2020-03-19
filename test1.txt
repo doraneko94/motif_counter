@@ -1,0 +1,4 @@
+acgtcg
+acg
+tcg
+gat
