@@ -1,3 +1,4 @@
 /target
 **/*.rs.bk
 int4.txt
+!/target/release/mf.exe
