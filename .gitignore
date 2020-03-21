@@ -1,6 +1,6 @@
 !/target/release/mf.exe
 /target/release/
-/target/degug
+/target/debug
 /target/rls
 target/*.json
 **/*.rs.bk
