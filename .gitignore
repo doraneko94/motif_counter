@@ -1,4 +1,7 @@
 !/target/release/mf.exe
-/target
+/target/release/
+/target/degug
+/target/rls
+target/*.json
 **/*.rs.bk
 int4.txt
