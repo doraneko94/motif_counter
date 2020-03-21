@@ -1,5 +1,5 @@
-!/target/release/mf.exe
 /target/release/
+!/target/release/mf.exe
 /target/debug
 /target/rls
 target/*.json
