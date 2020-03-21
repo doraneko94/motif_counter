@@ -1,4 +1,4 @@
-/target/release/
+/target/release/*
 !/target/release/mf.exe
 /target/debug
 /target/rls
